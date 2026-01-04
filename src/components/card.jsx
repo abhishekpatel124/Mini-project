@@ -11,10 +11,8 @@ function Card({ img, username, Contact,category }) {
                 />
             </div>
             <h2>Enjoy Time</h2>
-            <h3>Best Memories</h3>
             <h5>
-                To enjoy join us here we Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Nesciunt sed modi delectus et dicta dignissimos voluptates facilis itaque quo quae.
+                Enjoying time means living in the moment and appreciating simple joys. It is about relaxing, laughing with friends, exploring new interests, and taking breaks from routine. When we enjoy our time, stress reduces, happiness increases, and we create memories that refresh our mind and give positive energy.
             </h5>
             <h4>Owner : {props.username} <hr /> Mobile NO :- {props.Contact}</h4>
         </div>
