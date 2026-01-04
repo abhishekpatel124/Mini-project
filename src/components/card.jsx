@@ -11,6 +11,7 @@ function Card({ img, username, Contact,category }) {
                 />
             </div>
             <h2>Enjoy Time</h2>
+            <h3>Best Memories</h3>
             <h5>
                 To enjoy join us here we Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Nesciunt sed modi delectus et dicta dignissimos voluptates facilis itaque quo quae.
